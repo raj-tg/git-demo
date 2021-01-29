@@ -6,3 +6,5 @@ this si some text to test
 
 ##more text
 hhhdahsdhasdas hasdasd
+
+## added an index file
